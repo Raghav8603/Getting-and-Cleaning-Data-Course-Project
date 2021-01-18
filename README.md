@@ -16,8 +16,11 @@ Data for the project:
 The run.analysis.R performs the following five steps as assigned for this assignment to make the dataset tidy.
 
 The run_analysis.R contains the code that is used to make the data tidy.
+
 This is done in five steps as required for this assisgnment.
+
 The steps are as follows-
+
 1.Merging the training and the test sets to create one data set.
 2.Extracting only the measurements on the mean and standard deviation for each measurement.
 3.Using descriptive activity names to name the activities in the data set.
